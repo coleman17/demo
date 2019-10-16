@@ -1,8 +1,8 @@
 {
   "orders": [
-    { "orderId": 123, "orderName": "Amazon Order" },
-    { "orderId": 456, "orderName": "PayPal Order" },
-    { "orderId": 789, "orderName": "Hannafords Order" }
+    { "id": 123, "orderName": "Amazon Order" },
+    { "id": 456, "orderName": "PayPal Order" },
+    { "id": 789, "orderName": "Hannafords Order" }
   ],
   "healthcheck": [
     { "status": "UP" }
