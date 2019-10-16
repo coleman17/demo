@@ -3,5 +3,8 @@
     { "id": 123, "name": "Amazon Order" },
     { "id": 456, "name": "PayPal Order" },
     { "id": 789, "name": "Hannafords Order" }
+  ],
+  "healthcheck": [
+    { "status": "UP" }
   ]
 }
